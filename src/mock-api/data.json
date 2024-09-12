@@ -1,0 +1,304 @@
+{
+   "usersData": [
+     {
+       "id": 1,
+       "name": "Иван Иванов",
+       "email": "ivan.ivanov@example.com",
+       "sex": "мужской"
+     },
+     {
+       "id": 2,
+       "name": "Мария Петрова",
+       "email": "maria.petrova@example.com",
+       "sex": "женский"
+     },
+     {
+       "id": 3,
+       "name": "Сергей Смирнов",
+       "email": "sergey.smirnov@example.com",
+       "sex": "мужской"
+     },
+     {
+       "id": 4,
+       "name": "Анна Кузнецова",
+       "email": "anna.kuznetsova@example.com",
+       "sex": "женский"
+     },
+     {
+       "id": 5,
+       "name": "Дмитрий Васильев",
+       "email": "dmitry.vasiliev@example.com",
+       "sex": "мужской"
+     },
+     {
+       "id": 6,
+       "name": "Елена Соколова",
+       "email": "elena.sokolova@example.com",
+       "sex": "женский"
+     },
+     {
+       "id": 7,
+       "name": "Алексей Федоров",
+       "email": "alexey.fedorov@example.com",
+       "sex": "мужской"
+     },
+     {
+       "id": 8,
+       "name": "Ольга Морозова",
+       "email": "olga.morozova@example.com",
+       "sex": "женский"
+     },
+     {
+       "id": 9,
+       "name": "Николай Николаев",
+       "email": "nikolai.nikolaev@example.com",
+       "sex": "мужской"
+     },
+     {
+       "id": 10,
+       "name": "Татьяна Сергеева",
+       "email": "tatiana.sergeeva@example.com",
+       "sex": "женский"
+     },
+     {
+       "id": 11,
+       "name": "Владимир Ковалев",
+       "email": "vladimir.kovalev@example.com",
+       "sex": "мужской"
+     },
+     {
+       "id": 12,
+       "name": "Светлана Лебедева",
+       "email": "svetlana.lebedyeva@example.com",
+       "sex": "женский"
+     },
+     {
+       "id": 13,
+       "name": "Андрей Григорьев",
+       "email": "andrey.grigoryev@example.com",
+       "sex": "мужской"
+     },
+     {
+       "id": 14,
+       "name": "Ксения Романова",
+       "email": "kseniya.romanova@example.com",
+       "sex": "женский"
+     },
+     {
+       "id": 15,
+       "name": "Максим Сидоров",
+       "email": "maxim.sidorov@example.com",
+       "sex": "мужской"
+     },
+     {
+       "id": 16,
+       "name": "Юлия Васильева",
+       "email": "yulia.vasilieva@example.com",
+       "sex": "женский"
+     },
+     {
+       "id": 17,
+       "name": "Роман Павлов",
+       "email": "roman.pavlov@example.com",
+       "sex": "мужской"
+     },
+     {
+       "id": 18,
+       "name": "Екатерина Фролова",
+       "email": "ekaterina.frolova@example.com",
+       "sex": "женский"
+     },
+     {
+       "id": 19,
+       "name": "Игорь Михайлов",
+       "email": "igor.mikhaylov@example.com",
+       "sex": "мужской"
+     },
+     {
+       "id": 20,
+       "name": "Анастасия Климова",
+       "email": "anastasia.klimova@example.com",
+       "sex": "женский"
+     },
+     {
+       "id": 21,
+       "name": "Станислав Кузьмин",
+       "email": "stanislav.kuzmin@example.com",
+       "sex": "мужской"
+     },
+     {
+       "id": 22,
+       "name": "Маргарита Соловьева",
+       "email": "margarita.solovyeva@example.com",
+       "sex": "женский"
+     },
+     {
+       "id": 23,
+       "name": "Денис Чернов",
+       "email": "denis.chernov@example.com",
+       "sex": "мужской"
+     },
+     {
+       "id": 24,
+       "name": "Наталья Баранова",
+       "email": "natalya.baranova@example.com",
+       "sex": "женский"
+     },
+     {
+       "id": 25,
+       "name": "Виктор Соловьев",
+       "email": "viktor.solovyev@example.com",
+       "sex": "мужской"
+     },
+     {
+       "id": 26,
+       "name": "Людмила Громова",
+       "email": "lyudmila.gromova@example.com",
+       "sex": "женский"
+     },
+     {
+       "id": 27,
+       "name": "Артем Костин",
+       "email": "artem.kostin@example.com",
+       "sex": "мужской"
+     },
+     {
+       "id": 28,
+       "name": "Валентина Сидорова",
+       "email": "valentina.sidorova@example.com",
+       "sex": "женский"
+     },
+     {
+       "id": 29,
+       "name": "Павел Яковлев",
+       "email": "pavel.yakovlev@example.com",
+       "sex": "мужской"
+     },
+     {
+       "id": 30,
+       "name": "Евгения Коваленко",
+       "email": "evgeniya.kovalenko@example.com",
+       "sex": "женский"
+     },
+     {
+       "id": 31,
+       "name": "Григорий Левин",
+       "email": "grigory.levin@example.com",
+       "sex": "мужской"
+     },
+     {
+       "id": 32,
+       "name": "София Костенко",
+       "email": "sofiya.kostenko@example.com",
+       "sex": "женский"
+     },
+     {
+       "id": 33,
+       "name": "Александр Тихонов",
+       "email": "alexander.tikhonov@example.com",
+       "sex": "мужской"
+     },
+     {
+       "id": 34,
+       "name": "Елизавета Федосеева",
+       "email": "elizaveta.fedoseeva@example.com",
+       "sex": "женский"
+     },
+     {
+       "id": 35,
+       "name": "Виктория Синицына",
+       "email": "viktoriya.sinitsyna@example.com",
+       "sex": "женский"
+     },
+     {
+       "id": 36,
+       "name": "Сергей Кузьмин",
+       "email": "sergey.kuzmin@example.com",
+       "sex": "мужской"
+     },
+     {
+       "id": 37,
+       "name": "Анастасия Ларина",
+       "email": "anastasia.larina@example.com",
+       "sex": "женский"
+     },
+     {
+       "id": 38,
+       "name": "Дмитрий Костяков",
+       "email": "dmitry.kostyakov@example.com",
+       "sex": "мужской"
+     },
+     {
+       "id": 39,
+       "name": "Татьяна Громова",
+       "email": "tatiana.gromova@example.com",
+       "sex": "женский"
+     },
+     {
+       "id": 40,
+       "name": "Алексей Соловьев",
+       "email": "alexey.solovyev@example.com",
+       "sex": "мужской"
+     },
+     {
+       "id": 41,
+       "name": "Елена Кузнецова",
+       "email": "elena.kuznetsova@example.com",
+       "sex": "женский"
+     },
+     {
+       "id": 42,
+       "name": "Игорь Федоров",
+       "email": "igor.fedorov@example.com",
+       "sex": "мужской"
+     },
+     {
+       "id": 43,
+       "name": "Светлана Петрова",
+       "email": "svetlana.petrova@example.com",
+       "sex": "женский"
+     },
+     {
+       "id": 44,
+       "name": "Роман Сидоров",
+       "email": "roman.sidorov@example.com",
+       "sex": "мужской"
+     },
+     {
+       "id": 45,
+       "name": "Ксения Лебедева",
+       "email": "kseniya.lebedyeva@example.com",
+       "sex": "женский"
+     },
+     {
+       "id": 46,
+       "name": "Андрей Смирнов",
+       "email": "andrey.smirnov@example.com",
+       "sex": "мужской"
+     },
+     {
+       "id": 47,
+       "name": "Мария Григорьева",
+       "email": "maria.grigoryeva@example.com",
+       "sex": "женский"
+     },
+     {
+       "id": 48,
+       "name": "Денис Фролов",
+       "email": "denis.frolov@example.com",
+       "sex": "мужской"
+     },
+     {
+       "id": 49,
+       "name": "Екатерина Сидорова",
+       "email": "ekaterina.sidorova@example.com",
+       "sex": "женский"
+     },
+     {
+       "id": 50,
+       "name": "Станислав Ковалев",
+       "email": "stanislav.kovalev@example.com",
+       "sex": "мужской"
+     }
+   ]
+ }
