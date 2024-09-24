@@ -2,12 +2,15 @@
 import { onMounted, Reactive, reactive, Ref, ref, watch } from "vue";
 import { fetchUsers } from "../mock-api/useFetchApi";
 import { IParams, IUser } from "../types/userType";
+import { useRouter, useRoute, Router, RouteLocation } from "vue-router";
 
 const pageOptions: Reactive<IParams> = reactive({page: 1, pageCount: 10})
 const users: Ref<Array<IUser>> = ref([]);
 const isLoading: Ref<boolean> = ref(true);
+const router:Router = useRouter()
+const route:RouteLocation = useRoute()
 
-function fetchData() {
+function fetchData():void {
   isLoading.value = true;
   fetchUsers({ page: pageOptions.page, pageCount: pageOptions.pageCount })
     .then((data) => (users.value = data))
@@ -15,13 +18,20 @@ function fetchData() {
     .finally(() => (isLoading.value = false));
 }
 
-onMounted(() => {
+onMounted(():void => {
   fetchData();
 });
 
-watch(pageOptions, () => {
+watch(pageOptions, ():void => {
+  router.push(`/api?page=${pageOptions.page}&perPage=${pageOptions.pageCount}`)
   fetchData();
-});
+})
+watch(route, ():void => {
+  if(route.query){
+    pageOptions.page = Number(route.query.page)
+    pageOptions.pageCount = Number(route.query.perPage)
+  }
+})
 </script>
 
 <template>
